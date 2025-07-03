@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 2. Download the dataset manually (if not already included) from the following link:
 
-[Download dataset_AW.csv](https://raw.githubusercontent.com/YOUR_USERNAME/Advanced-Customer-Data-Analysis/main/dataset_AW.csv)
+[Download dataset_AW.csv](https://raw.githubusercontent.com/Ag78910/Advanced-Customer-Data-Analysis/main/dataset_AW.csv)
 
 3. Save all files in the same local folder.
 
