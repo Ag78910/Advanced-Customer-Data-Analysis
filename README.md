@@ -28,13 +28,13 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Advanced-Customer-Data-Analysis.git
+git clone https://github.com/Ag78910/Advanced-Customer-Data-Analysis.git
 cd Advanced-Customer-Data-Analysis
 ```
 
 2. Download the dataset manually (if not already included) from the following link:
 
-[Download dataset_AW.csv](https://raw.githubusercontent.com/YOUR_USERNAME/Advanced-Customer-Data-Analysis/main/dataset_AW.csv)
+[Download dataset_AW.csv](https://raw.githubusercontent.com/Ag78910/Advanced-Customer-Data-Analysis/main/dataset_AW.csv)
 
 3. Save the file in the same directory as the notebook:  
    `Advanced_Customer_Data_Analysis.ipynb`
