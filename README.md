@@ -30,22 +30,20 @@ pip install -r requirements.txt
    - `dataset_AW.csv`
    - `requirements.txt`
 
-2. Download the dataset manually (if not already included) from the following link:
+2. 📥 To download the CSV file:
+   - Go to the file `dataset_AW.csv` in the repository (left panel)
+   - Click on the file to preview it
+   - Then click the **"Download raw file"** button (top right) to save it to your computer
 
-[Click here to view the dataset_AW.csv](https://raw.githubusercontent.com/Ag78910/Advanced-Customer-Data-Analysis/main/dataset_AW.csv)
+3. 🟨 **Recommended environment**: This notebook is designed to run in [Google Colab](https://colab.research.google.com/).  
+   You can open it there and run all cells smoothly.
 
-📥 To download the file: Right-click the link above and select **"Save link as..."**
+4. 📂 When running the notebook in Google Colab:
+   - Locate the cell titled `# Upload CSV file manually (for Google Colab)`
+   - Run that cell and upload the `dataset_AW.csv` file when prompted
 
+> ✅ Make sure the CSV file name remains `dataset_AW.csv` so it matches the expected path in the notebook.
 
-3. Save all files in the same local folder.
-
-4. Open the notebook in Jupyter and run the cells:
-
-```bash
-jupyter notebook Advanced_Customer_Data_Analysis.ipynb
-```
-
-📌 **Note**: Make sure the CSV file is located in the same folder as the notebook before running the analysis. The notebook assumes the file path is `'dataset_AW.csv'`.
 
 ## License
 
