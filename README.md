@@ -30,15 +30,15 @@ pip install -r requirements.txt
    - `dataset_AW.csv`
    - `requirements.txt`
 
-2. 📥 **To download the CSV file**:
+2.  **To download the CSV file**:
    - Go to the file `dataset_AW.csv` in the repository (left panel)
    - Click on the file to preview it
    - Then click the **"Download raw file"** button (top right) to save it to your computer
 
-3. 🟨 **Recommended environment**: This notebook is designed to run in [Google Colab](https://colab.research.google.com/).
+3.  **Recommended environment**: This notebook is designed to run in [Google Colab](https://colab.research.google.com/).
    - You can open it there and run all cells smoothly.
 
-4. 📂 **When running the notebook in Google Colab**:
+4.  **When running the notebook in Google Colab**:
    - Locate the cell titled `# Upload CSV file manually (for Google Colab)`
    - Run that cell and upload the `dataset_AW.csv` file when prompted
 
